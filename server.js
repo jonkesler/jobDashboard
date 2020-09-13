@@ -38,7 +38,14 @@ app.use(passport.initialize());
 require("./config/passport")(passport);
 
 // // Connect to the Mongo DB
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/jobdash")
+mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/jobdash",
+{
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  useCreateIndex: true,
+  useFindAndModify: false
+}
+)
   .then(() => console.log("MongoDB successfully connected"))
   .catch(err => console.log(err));
 
@@ -46,3 +53,13 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/jobdash")
 app.listen(PORT, function () {
   console.log(`🌎  ==> Server listening on PORT ${PORT}!`);
 });
+
+// mongoose.connect(
+//   process.env.MONGODB_URI || 'mongodb://localhost/deep-thoughts',
+//   {
+//     useNewUrlParser: true,
+//     useUnifiedTopology: true,
+//     useCreateIndex: true,
+//     useFindAndModify: false
+//   }
+// );
