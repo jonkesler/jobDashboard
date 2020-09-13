@@ -67,7 +67,7 @@ class Landing extends Component {
                   // textShadow: "2px 2px rgba(0, 0, 0, 0.1)"
                 }}
                 >
-                  Focus on your craft,
+                  Keeping Clients and Contractors happy!
                     </span>
 
                 <span id="we-deliver" style={{
@@ -81,7 +81,7 @@ class Landing extends Component {
                   margin: " 26vh 0 0 220px"
                 }}
                 >
-                  we deliver the rest.
+                  jobdashboard
                   </span>
               </h2>
               <span id="sumit-is" style={{
@@ -163,7 +163,7 @@ class Landing extends Component {
 
               }}
             >
-              Keep track of your projects, tasks and time.
+              Keeping Clients and Contractors happy!
             </h4>
             <h5
               style={{
@@ -176,7 +176,7 @@ class Landing extends Component {
                 color: '#adadad'
               }}
             >
-              Spend your time wisely and focus on what matter the most. Make your clients happy!
+              jobdashboard
             </h5>
             <h4
               style={{
