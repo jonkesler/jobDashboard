@@ -1,4 +1,0 @@
-DROP DATABASE IF EXISTS jobD_db;
-
-CREATE DATABASE jobD_db;
-USE jobD_db;

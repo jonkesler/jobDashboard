@@ -1,5 +1,39 @@
 body {
   margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+  font-family: 'Rubik', sans-serif!important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #444444;
+}
+
+code {
+  font-family: 'Rubik', sans-serif;;
+}
+
+.card-header {
+  padding: .5rem;
+}
+
+h4 {
+  margin: 3rem auto 3rem 0;
+  color: #888;
+}
+
+h6 {
+  margin: 1rem 0 0 0;
+  font-weight: 700;
+}
+
+#th {
+  background-color: #eef5fa;
+  font-size: 16px !important;
+}
+
+.td {
+  font-size: 15px!important;
+}
+
+.td:hover {
+  text-decoration: underline;
+  color: black;
 }

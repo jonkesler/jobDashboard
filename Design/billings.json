@@ -1,0 +1,1566 @@
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d2c"), 
+    "BillId" : "1", 
+    "ClientId" : "1", 
+    "Cost" : "85", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "21.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d2d"), 
+    "BillId" : "2", 
+    "ClientId" : "2", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d2e"), 
+    "BillId" : "3", 
+    "ClientId" : "3", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d2f"), 
+    "BillId" : "4", 
+    "ClientId" : "4", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d30"), 
+    "BillId" : "5", 
+    "ClientId" : "5", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d31"), 
+    "BillId" : "6", 
+    "ClientId" : "6", 
+    "Cost" : "300", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "75.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d32"), 
+    "BillId" : "7", 
+    "ClientId" : "7", 
+    "Cost" : "95", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "23.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d33"), 
+    "BillId" : "8", 
+    "ClientId" : "8", 
+    "Cost" : "35", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "8.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d34"), 
+    "BillId" : "9", 
+    "ClientId" : "9", 
+    "Cost" : "85", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "21.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d35"), 
+    "BillId" : "10", 
+    "ClientId" : "10", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d36"), 
+    "BillId" : "11", 
+    "ClientId" : "11", 
+    "Cost" : "80", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "20.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d37"), 
+    "BillId" : "12", 
+    "ClientId" : "12", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d38"), 
+    "BillId" : "13", 
+    "ClientId" : "13", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d39"), 
+    "BillId" : "14", 
+    "ClientId" : "14", 
+    "Cost" : "90", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "22.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d3a"), 
+    "BillId" : "15", 
+    "ClientId" : "15", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d3b"), 
+    "BillId" : "16", 
+    "ClientId" : "16", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d3c"), 
+    "BillId" : "17", 
+    "ClientId" : "17", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d3d"), 
+    "BillId" : "18", 
+    "ClientId" : "18", 
+    "Cost" : "80", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "20.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d3e"), 
+    "BillId" : "19", 
+    "ClientId" : "19", 
+    "Cost" : "95", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "23.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d3f"), 
+    "BillId" : "20", 
+    "ClientId" : "20", 
+    "Cost" : "95", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "23.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d40"), 
+    "BillId" : "21", 
+    "ClientId" : "21", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d41"), 
+    "BillId" : "22", 
+    "ClientId" : "22", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d42"), 
+    "BillId" : "23", 
+    "ClientId" : "23", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d43"), 
+    "BillId" : "24", 
+    "ClientId" : "24", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d44"), 
+    "BillId" : "25", 
+    "ClientId" : "25", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d45"), 
+    "BillId" : "26", 
+    "ClientId" : "26", 
+    "Cost" : "80", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "20.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d46"), 
+    "BillId" : "27", 
+    "ClientId" : "27", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d47"), 
+    "BillId" : "28", 
+    "ClientId" : "28", 
+    "Cost" : "180", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "45.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d48"), 
+    "BillId" : "29", 
+    "ClientId" : "29", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d49"), 
+    "BillId" : "30", 
+    "ClientId" : "30", 
+    "Cost" : "60", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "15.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d4a"), 
+    "BillId" : "31", 
+    "ClientId" : "31", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d4b"), 
+    "BillId" : "32", 
+    "ClientId" : "32", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d4c"), 
+    "BillId" : "33", 
+    "ClientId" : "33", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d4d"), 
+    "BillId" : "34", 
+    "ClientId" : "34", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d4e"), 
+    "BillId" : "35", 
+    "ClientId" : "35", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d4f"), 
+    "BillId" : "36", 
+    "ClientId" : "36", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d50"), 
+    "BillId" : "37", 
+    "ClientId" : "37", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d51"), 
+    "BillId" : "38", 
+    "ClientId" : "38", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d52"), 
+    "BillId" : "39", 
+    "ClientId" : "39", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d53"), 
+    "BillId" : "40", 
+    "ClientId" : "40", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d54"), 
+    "BillId" : "41", 
+    "ClientId" : "41", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d55"), 
+    "BillId" : "42", 
+    "ClientId" : "42", 
+    "Cost" : "85", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "21.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d56"), 
+    "BillId" : "43", 
+    "ClientId" : "43", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d57"), 
+    "BillId" : "44", 
+    "ClientId" : "44", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d58"), 
+    "BillId" : "45", 
+    "ClientId" : "45", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d59"), 
+    "BillId" : "46", 
+    "ClientId" : "46", 
+    "Cost" : "50", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "12.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d5a"), 
+    "BillId" : "47", 
+    "ClientId" : "47", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d5b"), 
+    "BillId" : "48", 
+    "ClientId" : "48", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d5c"), 
+    "BillId" : "49", 
+    "ClientId" : "49", 
+    "Cost" : "115", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "28.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d5d"), 
+    "BillId" : "50", 
+    "ClientId" : "50", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d5e"), 
+    "BillId" : "51", 
+    "ClientId" : "51", 
+    "Cost" : "85", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "21.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d5f"), 
+    "BillId" : "52", 
+    "ClientId" : "52", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d60"), 
+    "BillId" : "53", 
+    "ClientId" : "53", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d61"), 
+    "BillId" : "54", 
+    "ClientId" : "54", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d62"), 
+    "BillId" : "55", 
+    "ClientId" : "55", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d63"), 
+    "BillId" : "56", 
+    "ClientId" : "56", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d64"), 
+    "BillId" : "57", 
+    "ClientId" : "57", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d65"), 
+    "BillId" : "58", 
+    "ClientId" : "58", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d66"), 
+    "BillId" : "59", 
+    "ClientId" : "59", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d67"), 
+    "BillId" : "60", 
+    "ClientId" : "60", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d68"), 
+    "BillId" : "61", 
+    "ClientId" : "61", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d69"), 
+    "BillId" : "62", 
+    "ClientId" : "62", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d6a"), 
+    "BillId" : "63", 
+    "ClientId" : "63", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d6b"), 
+    "BillId" : "64", 
+    "ClientId" : "64", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d6c"), 
+    "BillId" : "65", 
+    "ClientId" : "65", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d6d"), 
+    "BillId" : "66", 
+    "ClientId" : "66", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d6e"), 
+    "BillId" : "67", 
+    "ClientId" : "67", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d6f"), 
+    "BillId" : "68", 
+    "ClientId" : "68", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d70"), 
+    "BillId" : "69", 
+    "ClientId" : "69", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d71"), 
+    "BillId" : "70", 
+    "ClientId" : "70", 
+    "Cost" : "90", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "22.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d72"), 
+    "BillId" : "71", 
+    "ClientId" : "71", 
+    "Cost" : "95", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "23.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d73"), 
+    "BillId" : "72", 
+    "ClientId" : "72", 
+    "Cost" : "95", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "23.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d74"), 
+    "BillId" : "73", 
+    "ClientId" : "73", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d75"), 
+    "BillId" : "74", 
+    "ClientId" : "74", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d76"), 
+    "BillId" : "75", 
+    "ClientId" : "75", 
+    "Cost" : "100", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "25.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d77"), 
+    "BillId" : "76", 
+    "ClientId" : "76", 
+    "Cost" : "95", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "23.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d78"), 
+    "BillId" : "77", 
+    "ClientId" : "77", 
+    "Cost" : "250", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "62.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d79"), 
+    "BillId" : "78", 
+    "ClientId" : "78", 
+    "Cost" : "450", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "112.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d7a"), 
+    "BillId" : "79", 
+    "ClientId" : "79", 
+    "Cost" : "200", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "50.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d7b"), 
+    "BillId" : "80", 
+    "ClientId" : "80", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d7c"), 
+    "BillId" : "81", 
+    "ClientId" : "81", 
+    "Cost" : "175", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "43.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d7d"), 
+    "BillId" : "82", 
+    "ClientId" : "82", 
+    "Cost" : "125", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "31.25", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d7e"), 
+    "BillId" : "83", 
+    "ClientId" : "83", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d7f"), 
+    "BillId" : "84", 
+    "ClientId" : "84", 
+    "Cost" : "90", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "22.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d80"), 
+    "BillId" : "85", 
+    "ClientId" : "85", 
+    "Cost" : "75", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "18.75", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d81"), 
+    "BillId" : "86", 
+    "ClientId" : "86", 
+    "Cost" : "120", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "30.00", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d82"), 
+    "BillId" : "87", 
+    "ClientId" : "87", 
+    "Cost" : "150", 
+    "Bpercent" : "0.25", 
+    "Bpay" : "37.50", 
+    "type" : "c"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d83"), 
+    "BillId" : "88", 
+    "ClientId" : "88", 
+    "Cost" : "35", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "10.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d84"), 
+    "BillId" : "89", 
+    "ClientId" : "89", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d85"), 
+    "BillId" : "90", 
+    "ClientId" : "90", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d86"), 
+    "BillId" : "91", 
+    "ClientId" : "91", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d87"), 
+    "BillId" : "92", 
+    "ClientId" : "92", 
+    "Cost" : "40", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "12.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d88"), 
+    "BillId" : "93", 
+    "ClientId" : "93", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d89"), 
+    "BillId" : "94", 
+    "ClientId" : "94", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d8a"), 
+    "BillId" : "95", 
+    "ClientId" : "95", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d8b"), 
+    "BillId" : "96", 
+    "ClientId" : "96", 
+    "Cost" : "40", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "12.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d8c"), 
+    "BillId" : "97", 
+    "ClientId" : "97", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d8d"), 
+    "BillId" : "98", 
+    "ClientId" : "98", 
+    "Cost" : "35", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "10.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d8e"), 
+    "BillId" : "99", 
+    "ClientId" : "99", 
+    "Cost" : "40", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "12.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d8f"), 
+    "BillId" : "100", 
+    "ClientId" : "100", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d90"), 
+    "BillId" : "101", 
+    "ClientId" : "101", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d91"), 
+    "BillId" : "102", 
+    "ClientId" : "102", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d92"), 
+    "BillId" : "103", 
+    "ClientId" : "103", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d93"), 
+    "BillId" : "104", 
+    "ClientId" : "104", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d94"), 
+    "BillId" : "105", 
+    "ClientId" : "105", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d95"), 
+    "BillId" : "106", 
+    "ClientId" : "106", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d96"), 
+    "BillId" : "107", 
+    "ClientId" : "107", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d97"), 
+    "BillId" : "108", 
+    "ClientId" : "108", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d98"), 
+    "BillId" : "109", 
+    "ClientId" : "109", 
+    "Cost" : "150", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "45.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d99"), 
+    "BillId" : "110", 
+    "ClientId" : "110", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d9a"), 
+    "BillId" : "111", 
+    "ClientId" : "111", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d9b"), 
+    "BillId" : "112", 
+    "ClientId" : "112", 
+    "Cost" : "45", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "13.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d9c"), 
+    "BillId" : "113", 
+    "ClientId" : "113", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d9d"), 
+    "BillId" : "114", 
+    "ClientId" : "114", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d9e"), 
+    "BillId" : "115", 
+    "ClientId" : "115", 
+    "Cost" : "65", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "19.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3d9f"), 
+    "BillId" : "116", 
+    "ClientId" : "116", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da0"), 
+    "BillId" : "117", 
+    "ClientId" : "117", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da1"), 
+    "BillId" : "118", 
+    "ClientId" : "118", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da2"), 
+    "BillId" : "119", 
+    "ClientId" : "119", 
+    "Cost" : "125", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "37.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da3"), 
+    "BillId" : "120", 
+    "ClientId" : "120", 
+    "Cost" : "25", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "7.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da4"), 
+    "BillId" : "121", 
+    "ClientId" : "121", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da5"), 
+    "BillId" : "122", 
+    "ClientId" : "122", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da6"), 
+    "BillId" : "123", 
+    "ClientId" : "123", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da7"), 
+    "BillId" : "124", 
+    "ClientId" : "124", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da8"), 
+    "BillId" : "125", 
+    "ClientId" : "125", 
+    "Cost" : "25", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "7.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3da9"), 
+    "BillId" : "126", 
+    "ClientId" : "126", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3daa"), 
+    "BillId" : "127", 
+    "ClientId" : "127", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dab"), 
+    "BillId" : "128", 
+    "ClientId" : "128", 
+    "Cost" : "40", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "12.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dac"), 
+    "BillId" : "129", 
+    "ClientId" : "129", 
+    "Cost" : "125", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "37.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dad"), 
+    "BillId" : "130", 
+    "ClientId" : "130", 
+    "Cost" : "70", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "21.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dae"), 
+    "BillId" : "131", 
+    "ClientId" : "131", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3daf"), 
+    "BillId" : "132", 
+    "ClientId" : "132", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db0"), 
+    "BillId" : "133", 
+    "ClientId" : "133", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db1"), 
+    "BillId" : "134", 
+    "ClientId" : "134", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db2"), 
+    "BillId" : "135", 
+    "ClientId" : "135", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db3"), 
+    "BillId" : "136", 
+    "ClientId" : "136", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db4"), 
+    "BillId" : "137", 
+    "ClientId" : "137", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db5"), 
+    "BillId" : "138", 
+    "ClientId" : "138", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db6"), 
+    "BillId" : "139", 
+    "ClientId" : "139", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db7"), 
+    "BillId" : "140", 
+    "ClientId" : "140", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db8"), 
+    "BillId" : "141", 
+    "ClientId" : "141", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3db9"), 
+    "BillId" : "142", 
+    "ClientId" : "142", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dba"), 
+    "BillId" : "143", 
+    "ClientId" : "143", 
+    "Cost" : "85", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "25.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dbb"), 
+    "BillId" : "144", 
+    "ClientId" : "144", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dbc"), 
+    "BillId" : "145", 
+    "ClientId" : "145", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dbd"), 
+    "BillId" : "146", 
+    "ClientId" : "146", 
+    "Cost" : "130", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "39.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dbe"), 
+    "BillId" : "147", 
+    "ClientId" : "147", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dbf"), 
+    "BillId" : "148", 
+    "ClientId" : "148", 
+    "Cost" : "45", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "13.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc0"), 
+    "BillId" : "149", 
+    "ClientId" : "149", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc1"), 
+    "BillId" : "150", 
+    "ClientId" : "150", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc2"), 
+    "BillId" : "151", 
+    "ClientId" : "151", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc3"), 
+    "BillId" : "152", 
+    "ClientId" : "152", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc4"), 
+    "BillId" : "153", 
+    "ClientId" : "153", 
+    "Cost" : "40", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "12.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc5"), 
+    "BillId" : "154", 
+    "ClientId" : "154", 
+    "Cost" : "100", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "30.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc6"), 
+    "BillId" : "155", 
+    "ClientId" : "155", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc7"), 
+    "BillId" : "156", 
+    "ClientId" : "156", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc8"), 
+    "BillId" : "157", 
+    "ClientId" : "157", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dc9"), 
+    "BillId" : "158", 
+    "ClientId" : "158", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dca"), 
+    "BillId" : "159", 
+    "ClientId" : "159", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dcb"), 
+    "BillId" : "160", 
+    "ClientId" : "160", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dcc"), 
+    "BillId" : "161", 
+    "ClientId" : "161", 
+    "Cost" : "85", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "25.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dcd"), 
+    "BillId" : "162", 
+    "ClientId" : "162", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dce"), 
+    "BillId" : "163", 
+    "ClientId" : "163", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dcf"), 
+    "BillId" : "164", 
+    "ClientId" : "164", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd0"), 
+    "BillId" : "165", 
+    "ClientId" : "165", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd1"), 
+    "BillId" : "166", 
+    "ClientId" : "166", 
+    "Cost" : "25", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "7.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd2"), 
+    "BillId" : "167", 
+    "ClientId" : "167", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd3"), 
+    "BillId" : "168", 
+    "ClientId" : "168", 
+    "Cost" : "75", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "22.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd4"), 
+    "BillId" : "169", 
+    "ClientId" : "169", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd5"), 
+    "BillId" : "170", 
+    "ClientId" : "170", 
+    "Cost" : "30", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "9.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd6"), 
+    "BillId" : "171", 
+    "ClientId" : "171", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd7"), 
+    "BillId" : "172", 
+    "ClientId" : "172", 
+    "Cost" : "60", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "18.00", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd8"), 
+    "BillId" : "173", 
+    "ClientId" : "173", 
+    "Cost" : "25", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "7.50", 
+    "type" : "l"
+}
+{ 
+    "_id" : ObjectId("5f5be0896be37a09544b3dd9"), 
+    "BillId" : "174", 
+    "ClientId" : "174", 
+    "Cost" : "50", 
+    "Bpercent" : "0.30", 
+    "Bpay" : "15.00", 
+    "type" : "l"
+}
